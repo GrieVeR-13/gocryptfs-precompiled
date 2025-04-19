@@ -1,0 +1,1 @@
+gocryptfs-precompied v2015.04.19-64983b89
